@@ -1,5 +1,5 @@
 //contains, by the end, all files needed.
-#include "main_functions.h"
+#include "functions.h"
 #include <time.h>
 
 void gameLoop(int &score, bool &win, XEvent &event)
